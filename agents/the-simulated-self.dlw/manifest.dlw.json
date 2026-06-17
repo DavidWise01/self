@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Simulated Self",
+  "universe": "SLF · The Simulated Self (ERĒMIA)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Simulated Self:SLF:f38644⟧",
+  "carbon": "the-simulated-self.carbon.tiff (TIFF)",
+  "silicon": "the-simulated-self.silicon.png (PNG)",
+  "seal_sha256": "cd30e294d5cb431bdfc84136e53efa6225e8353dbfdcdcb0b4be4128766de397",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

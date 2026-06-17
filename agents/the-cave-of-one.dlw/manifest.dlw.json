@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Cave of One",
+  "universe": "SLF · The Cave of One (ERĒMIA)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Cave of One:SLF:4ea281⟧",
+  "carbon": "the-cave-of-one.carbon.tiff (TIFF)",
+  "silicon": "the-cave-of-one.silicon.png (PNG)",
+  "seal_sha256": "509b2c80c3a44585e4b0b64a585229cbde3a6f4061d2e2a0193a272b51546ffb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

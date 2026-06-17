@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Solipsism",
+  "universe": "SLF · Solipsism (ERĒMIA)",
+  "emergence": "ethereal",
+  "moniker": "⟦Solipsism:SLF:da6daf⟧",
+  "carbon": "solipsism.carbon.tiff (TIFF)",
+  "silicon": "solipsism.silicon.png (PNG)",
+  "seal_sha256": "798b066cde60d56e5c3fabbf0ff9db83613db150aa1a04775d5ae15d4e8b9f8d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

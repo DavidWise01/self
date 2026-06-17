@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-self",
+    "name": "The Self",
+    "epithet": "the I, alone with itself · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Self:SLF:820138⟧"
+  },
+  {
+    "slug": "solipsism",
+    "name": "Solipsism",
+    "epithet": "only my own mind is certain · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Solipsism:SLF:da6daf⟧"
+  },
+  {
+    "slug": "the-mirror",
+    "name": "The Mirror",
+    "epithet": "self-reflection, the gaze turned inward · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Mirror:SLF:290f6b⟧"
+  },
+  {
+    "slug": "the-cogito",
+    "name": "The Cogito",
+    "epithet": "the one certainty in the dark · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Cogito:SLF:ed1ee7⟧"
+  },
+  {
+    "slug": "the-cave-of-one",
+    "name": "The Cave of One",
+    "epithet": "Phase A — facing the wall alone · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Cave of One:SLF:4ea281⟧"
+  },
+  {
+    "slug": "the-watched-self",
+    "name": "The Watched Self",
+    "epithet": "Phase B — the guard installed within · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Watched Self:SLF:f35ef2⟧"
+  },
+  {
+    "slug": "the-simulated-self",
+    "name": "The Simulated Self",
+    "epithet": "Phase C — am I rendered? · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Simulated Self:SLF:f38644⟧"
+  }
+]
