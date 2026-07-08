@@ -4,6 +4,6 @@ slug  : self
 seal  : 445f49e75787f21326d3d9b7619398cc2002dcf61d02716887a1138809ad7690
 prev  : a9f21fe14efa07d03e45f1688419f6e43870b4b1eade9e19454c60c18cc8dd50
 link  : d0eb1647d13c2defb38ece1743c2939e4c937e1bc2942302e87b45c04089903e
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
